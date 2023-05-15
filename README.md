@@ -1,4 +1,4 @@
-###                                                              I AM PASSIONATE DEVELOPER FROM PAKISTAN 👋
+### HI THERE                                                             I AM PASSIONATE DEVELOPER FROM PAKISTAN 👋
 # 💫 About Me:
 🔭 I’m currently working on Android development<br>👯 I’m looking to collaborate on Android Application.<br>🌱 I’m currently learning React.<br>💬 Ask me about Android.<br>⚡ lazy but smart
 
